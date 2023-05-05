@@ -1,5 +1,7 @@
 # Frontend Bootcamp / Days in the Web
 
+![Visitor Count](https://profile-counter.glitch.me/codesleeps/count.svg)
+
 ## Welcome
 
 In this two-day workshop you'll learn the basics of frontend development while building a working web app.
